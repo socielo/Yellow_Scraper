@@ -1,0 +1,10 @@
+Scrapes "Business Name", "Phone Number", & "Location" data from yellowpages.com given the search parameters. 
+
+Once done, program will import data into an organized csv file.
+
+
+In order to run you need to input your path, and the file's name you would like it to save as.
+Then run. Enter paramets, locations, number of pages.
+
+Use YellowScraper_draft(works), the other file is for any edits.
+
