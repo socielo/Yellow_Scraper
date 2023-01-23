@@ -13,7 +13,7 @@ STATE = input("State(XY): ")
 PAGE = int(input("MaxPage Number: "))
 
 # Initialize
-s = Service(r'C:\Users\josep\OneDrive\Desktop\chrome\chromedriver.exe')  # <--PATH
+s = Service(r'')  # <--PATH
 browser = webdriver.Chrome(service=s)
 browser.maximize_window()
 browser.implicitly_wait(10)
